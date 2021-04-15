@@ -1,0 +1,18 @@
+package com.laon.sms.global;
+
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+
+import java.util.List;
+
+@Getter
+@AllArgsConstructor
+@NoArgsConstructor
+public class ApiListResponse<T> {
+
+private List<T> data;
+
+
+}
