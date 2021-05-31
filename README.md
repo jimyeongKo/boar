@@ -1,3 +1,1 @@
-"# sms_be_spring" 
-"# boar" 
-"# boar" 
+sns에 기본적을 사용 될 수 있는 기능들을 활용 해봤습니다!
